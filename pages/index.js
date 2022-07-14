@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Santosh Adhikari's website under construction" />
+        <Header title="Santosh Adhikari website under construction" />
         <p className="description">
          Thank you for visiting.
           You can contact me ASAP through email at santoshadhikari486@gmail.com
