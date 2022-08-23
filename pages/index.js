@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>This is Santosh Adhikari aka UJ5!</title>
+        <title>Home - Santosh Adhikari</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
